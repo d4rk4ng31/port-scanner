@@ -6,6 +6,7 @@ Python'ı öğrenme aşamasındayım.
 
 Öncelikle bu benim ilk projemdir lütfen dalga geçmeyin.
 
+Nmap kullanarak tarar.
 
 Bu programı python ile yazdım
 
