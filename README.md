@@ -1,4 +1,8 @@
 # port-scanner
+#Author DarkAngel
+#Sadece Linux üzerinde çalışır.
+
+Python'ı öğrenme aşamasındayım.
 
 Öncelikle bu benim ilk projemdir lütfen dalga geçmeyin.
 
