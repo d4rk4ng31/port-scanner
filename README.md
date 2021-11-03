@@ -1,5 +1,5 @@
 # port-scanner
-#Author DarkAngel
+#Author MartinX
 #Sadece Linux üzerinde çalışır.
 
 Python'ı öğrenme aşamasındayım.
